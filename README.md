@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Unaid Abdullah 👋
 
-<!--
-**unaidabdullah-ui/Unaidabdullah-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MLOps Engineer** | B.E. Computer Science  
+Based in Karnataka, India.
 
-Here are some ideas to get you started:
+Passionate about building scalable, production-ready machine learning systems — from data pipelines to model deployment and monitoring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages**: Python, SQL
+- **MLOps Tools**: Docker, Kubernetes, MLflow, DVC, GitHub Actions
+- **ML Frameworks**: Scikit-learn, TensorFlow / PyTorch (basics)
+- **Cloud & DevOps**: AWS / GCP basics, CI/CD pipelines
+- **Others**: FastAPI, Linux, Git
+
+### 🚀 What I'm Building
+Currently focusing on end-to-end MLOps projects:
+- Automated training & deployment pipelines
+- Model versioning and monitoring
+- CI/CD for machine learning
+
+### 📚 Education
+- Bachelor of Engineering in Computer Science
+
+Open to collaboration, internships, or entry-level MLOps / ML Engineering roles.
+
+Feel free to connect or check out my projects below!
