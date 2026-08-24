@@ -1,26 +1,31 @@
 # Hi, I'm Unaid Abdullah 👋
 
-**MLOps Engineer** | B.E. Computer Science  
-Based in Karnataka, India.
+**MLOps Engineer** building production-ready machine learning systems — from training pipelines to scalable deployment and monitoring.
 
-Passionate about building scalable, production-ready machine learning systems — from data pipelines to model deployment and monitoring.
+📍 Karnataka, India · Open to MLOps / ML Engineering roles & internships
 
-### 🛠️ Tech Stack & Skills
-- **Languages**: Python, SQL
-- **MLOps Tools**: Docker, Kubernetes, MLflow, DVC, GitHub Actions
-- **ML Frameworks**: Scikit-learn, TensorFlow / PyTorch (basics)
-- **Cloud & DevOps**: AWS / GCP basics, CI/CD pipelines
-- **Others**: FastAPI, Linux, Git
+### What I focus on
+- End-to-end MLOps: training → versioning → containerization → CI/CD → serving
+- FastAPI model APIs + Docker + Kubernetes
+- Experiment tracking & model registry with MLflow
+- Reproducible pipelines with DVC / Git
 
-### 🚀 What I'm Building
-Currently focusing on end-to-end MLOps projects:
-- Automated training & deployment pipelines
-- Model versioning and monitoring
-- CI/CD for machine learning
+### Featured Projects
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [diabetes-mlops-api](https://github.com/unaidabdullah-ui/diabetes-mlops-api) | FastAPI, Docker, scikit-learn, MLflow | Diabetes prediction API with full training + deployment pipeline |
+| [production-mlops-titanic-api](https://github.com/unaidabdullah-ui/production-mlops-titanic-api) | FastAPI, MLflow, Docker, Jenkins | Production-style Titanic survival pipeline with CI/CD |
+| [mlops-bootcamp](https://github.com/unaidabdullah-ui/mlops-bootcamp) | Multiple | End-to-end MLOps learning path & hands-on projects |
 
-### 📚 Education
-- Bachelor of Engineering in Computer Science
+### Tech Stack
+**Languages:** Python, SQL  
+**MLOps / DevOps:** Docker, Kubernetes, MLflow, DVC, Jenkins, GitHub Actions  
+**ML:** scikit-learn, (basics of TensorFlow/PyTorch)  
+**Serving:** FastAPI  
+**Other:** Linux, Git
 
-Open to collaboration, internships, or entry-level MLOps / ML Engineering roles.
+### Currently
+Building and refining production ML pipelines and exploring monitoring / observability for models in production.
 
-Feel free to connect or check out my projects below!
+📫 LinkedIn: [unaid-abdullah](https://www.linkedin.com/in/unaid-abdullah)  
+Feel free to reach out for collaboration or opportunities!
