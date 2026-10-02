@@ -14,7 +14,6 @@
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [diabetes-mlops-api](https://github.com/unaidabdullah-ui/diabetes-mlops-platform.git) | FastAPI, Docker, scikit-learn, MLflow | Diabetes prediction API with full training + deployment pipeline |
-| [production-mlops-titanic-api](https://github.com/unaidabdullah-ui/production-mlops-titanic-api) | FastAPI, MLflow, Docker, Jenkins | Production-style Titanic survival pipeline with CI/CD |
 | [mlops-bootcamp](https://github.com/unaidabdullah-ui/mlops-bootcamp) | Multiple | End-to-end MLOps learning path & hands-on projects |
 
 ### Tech Stack
